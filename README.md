@@ -10,6 +10,6 @@ LDA assumes that documents are produced from a mixture of topics, where each top
 
 ## Repository Contents
 
-Code: Implementation of LDA algorithm using various libraries such as Gensim, Scikit-learn, and NLTK.
-Notebooks: Jupyter notebooks demonstrating how to preprocess text data, train LDA models, and visualize the results.
-Data: Sample dataset for experimenting with topic modeling algorithms.
+- **Code**: Implementation of LDA algorithm using various libraries such as Gensim, Scikit-learn, and NLTK.
+- **Notebooks**: Jupyter notebook demonstrating how to preprocess text data, train LDA models, and visualize the results.
+- **Data**: Sample dataset for experimenting with topic modeling algorithms.

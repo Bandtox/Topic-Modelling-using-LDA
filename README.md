@@ -8,7 +8,7 @@ Topic modeling is a statistical modeling technique used to discover abstract top
 
 LDA assumes that documents are produced from a mixture of topics, where each topic is a distribution over words. The algorithm then infers the latent topics based on the observed words in the documents. By analyzing the distribution of words across topics, LDA assigns probabilities to each word in the vocabulary, indicating the likelihood of the word belonging to a particular topic.
 
-##Repository Contents
+## Repository Contents
 
 Code: Implementation of LDA algorithm using various libraries such as Gensim, Scikit-learn, and NLTK.
 Notebooks: Jupyter notebooks demonstrating how to preprocess text data, train LDA models, and visualize the results.
